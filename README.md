@@ -150,7 +150,9 @@ The repository is organized by library, making it easy to learn step-by-step.
 ## ▶️ How to Run Locally
 
 git clone https://github.com/Mohit-1307/PyDataLab.git
+
 cd PyDataLab
+
 Open notebooks or .py files in your preferred editor or Jupyter environment.
 
 ---
