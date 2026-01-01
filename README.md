@@ -101,7 +101,7 @@ The project is organized by Python libraries. Each folder focuses on a specific 
 ## ▶️ How to Run
 
 bash
-git clone https://github.com/Mohit-1307/Python-Libraries.git
+git clone https://github.com/Mohit-1307/PyDataLab.git
 
 ---
 
