@@ -53,7 +53,7 @@ No prior ML knowledge required.
 
 ---
 
-## 🧩 Project Structure (Learning Path)
+## 🧩 Project Structure
 
 The repository is organized by library, making it easy to learn step-by-step.
 
