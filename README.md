@@ -1,9 +1,9 @@
-# 🧪 PyDataLab
+## 🧪 PyDataLab
 
 A hands-on Python Data Science learning repository with practical examples using core scientific libraries like NumPy, Pandas, and Matplotlib.
 This project is designed for learning by doing—helping you build strong fundamentals in data manipulation, analysis, and visualization using real datasets.
 
-# 🚀 Why PyDataLab?
+## 🚀 Why PyDataLab?
 
 ✔️ Beginner-friendly and structured
 
@@ -15,7 +15,7 @@ This project is designed for learning by doing—helping you build strong fundam
 
 ✔️ Ideal for quick revision and experimentation
 
-# 🎯 Who Is This For?
+## 🎯 Who Is This For?
 
 PyDataLab is ideal for:
 
@@ -27,7 +27,7 @@ PyDataLab is ideal for:
 
 ✔️ 📊 Anyone who wants hands-on Python practice
 
-# 📚 Learning Outcomes
+## 📚 Learning Outcomes
 
 * After completing this repository, you will be able to:
 
@@ -43,7 +43,7 @@ PyDataLab is ideal for:
 
 ---
 
-# 📚 Prerequisites
+## 📚 Prerequisites
 
 * Basic Python programming
 
@@ -53,13 +53,13 @@ No prior ML knowledge required.
 
 ---
 
-# 🧩 Project Structure (Learning Path)
+## 🧩 Project Structure (Learning Path)
 
 The repository is organized by library, making it easy to learn step-by-step.
 
-## 1️⃣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="26"/> Numpy – Numerical Computing
+### 1️⃣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="26"/> Numpy – Numerical Computing
 
-### 📂 _numpy/
+#### 📂 _numpy/
 
 * Learn the fundamentals of numerical computing with NumPy.
 
@@ -75,9 +75,9 @@ The repository is organized by library, making it easy to learn step-by-step.
 
 * Aggregations & basic statistics
 
-## 2️⃣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="26"/> Pandas – Data Analysis & Manipulation
+### 2️⃣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="26"/> Pandas – Data Analysis & Manipulation
 
-### 📂 _pandas/
+#### 📂 _pandas/
 
 * Work with structured datasets using Pandas.
 
@@ -97,9 +97,9 @@ The repository is organized by library, making it easy to learn step-by-step.
 
 * Exploratory data analysis (EDA)
 
-## 3️⃣ <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="26"/> Matplotlib – Data Visualization
+### 3️⃣ <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="26"/> Matplotlib – Data Visualization
 
-### 📂 _matplotlib/
+#### 📂 _matplotlib/
 
 * Visualize data to uncover patterns and insights.
 
@@ -115,9 +115,9 @@ The repository is organized by library, making it easy to learn step-by-step.
 
 * Plot customization (titles, labels, grids)
 
-## 4️⃣ Dataset Used
+### 4️⃣ Dataset Used
 
-### 📄 pokemon.csv
+#### 📄 pokemon.csv
 
 * A real-world dataset used across Pandas and Matplotlib examples.
 
@@ -135,7 +135,7 @@ The repository is organized by library, making it easy to learn step-by-step.
 
 ---
 
-# Documentation
+## Documentation
 
 📄 README.md
 
@@ -149,7 +149,7 @@ The repository is organized by library, making it easy to learn step-by-step.
 
 ---
 
-🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26"/> Python
 
@@ -161,7 +161,7 @@ The repository is organized by library, making it easy to learn step-by-step.
 
 ---
 
-# ▶️ How to Run Locally
+## ▶️ How to Run Locally
 
 git clone https://github.com/Mohit-1307/PyDataLab.git
 cd PyDataLab
@@ -169,7 +169,7 @@ Open notebooks or .py files in your preferred editor or Jupyter environment.
 
 ---
 
-# 🌟 Support & Contribution
+## 🌟 Support & Contribution
 
 If this repository helps you:
 
