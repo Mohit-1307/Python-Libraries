@@ -1,4 +1,4 @@
-# Python-Libraries 🐍
+## Python-Libraries 🐍
 
 A structured learning repository containing practical Python examples for popular data science and scientific computing libraries such as **NumPy**, **Pandas**, and **Matplotlib**.
 
@@ -6,7 +6,7 @@ This repository is designed for **hands-on learning**, quick revision, and exper
 
 ---
 
-📌 Objectives
+## 📌 Objectives
 
       - Learn core Python libraries through examples
       - Practice data manipulation and visualization
@@ -15,7 +15,7 @@ This repository is designed for **hands-on learning**, quick revision, and exper
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 The project is organized by Python libraries. Each folder focuses on a specific library with practical examples.
 
@@ -91,6 +91,6 @@ jupyter notebook
 
 ---
 
-## ⭐ Support
+### ⭐ Support
 
 If you find this repository helpful, feel free to star ⭐ the repo and share it!
