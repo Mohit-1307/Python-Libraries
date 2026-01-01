@@ -161,13 +161,15 @@ Open notebooks or .py files in your preferred editor or Jupyter environment.
 
 📄 README.md
 
-* Explains the purpose of the repository
+* Explains the purpose and vision of the repository
 
-* Describes folder structure
+* Describes the complete folder structure
 
-* Guides learners on how to use the examples
+* Guides learners on how to follow the learning path step-by-step
 
-* Acts as a quick reference
+* Provides setup instructions and usage guidelines
+
+* Acts as a quick reference for learners, contributors, and recruiters
 
 ---
 
