@@ -79,6 +79,20 @@ The project is organized by Python libraries. Each folder focuses on a specific 
          HP, Attack, Defense
          Speed and other attributes
 
+🔹 README.md
+
+    - Main documentation file for the repository
+
+    - Provides an overview of the project purpose and learning goals
+
+    - Explains the folder structure and contents of each directory
+
+    - Describes the dataset (pokemon.csv) and its usage
+
+    - Includes instructions on how to run and use the examples
+
+    - Serves as a quick reference for learners and contributors
+
 ---
 
 ## ▶️ How to Run
