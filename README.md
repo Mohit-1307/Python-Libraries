@@ -155,11 +155,75 @@ Ignore rules for Python, Jupyter, virtual environments, and system files.
 
 ## ▶️ How to Run Locally
 
-git clone https://github.com/Mohit-1307/PyDataLab.git
+* Follow these steps to set up and run the PyDataLab repository on your local machine
+
+### 1️⃣ Clone the Repository
+
+git clone https://github.com/PyDataLab.git
 
 cd PyDataLab
 
-Open notebooks or .py files in your preferred editor or Jupyter environment.
+### 2️⃣ (Optional but Recommended) Create a Virtual Environment
+
+#### 🪟 Windows:
+
+python -m venv venv
+
+venv\Scripts\activate
+
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/MacOS_logo.svg" height="28"/> macOS / 🐧 Linux:
+
+python3 -m venv venv
+
+source venv/bin/activate
+
+### 3️⃣ Install Dependencies
+
+* Upgrade pip and install all required libraries.
+
+pip install --upgrade pip
+
+pip install -r requirements.txt
+
+* If requirements.txt is not present, install manually
+
+pip install numpy pandas matplotlib
+
+### 4️⃣ Run Python Files
+
+#### Navigate to any topic folder:
+
+cd _numpy
+
+#### Run a Python file:
+
+python filename.py
+
+#### Example:
+
+python bar_charts.py
+
+📝 Notes
+
+✅ Ensure Python 3.8+ is installed
+
+python --version
+
+* 📦 Using venv/ is optional but highly recommended
+
+* 📄 Datasets (e.g., pokemon.csv) are loaded directly inside notebooks
+
+* 💻 Works on Windows, macOS, and Linux
+
+#### 🎯 This Repository Is Designed For
+
+* Strong Python data fundamentals
+
+* Hands-on practice with NumPy, Pandas & Matplotlib
+
+* Quick revision and experimentation
+
+* Building a solid base for Machine Learning & Data Science
 
 ---
 
